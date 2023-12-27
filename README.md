@@ -22,7 +22,7 @@ To get started with this HTML downloader, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/ConteZollah/UrlToHtml.git
+    git clone https://github.com/ConteZoller/UrlToHtml.git
     cd UrlToHtml
     ```
 
